@@ -1,0 +1,9 @@
+.checkboxes {
+	float: right;
+	line-height: 15px;
+	width: 17px;
+	height: 17px;
+	background-color: #e9ecef;
+	border: 1px solid #e9ecef;
+	border-radius: 3px;
+}
